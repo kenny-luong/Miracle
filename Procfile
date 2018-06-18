@@ -1,1 +1,1 @@
-web: rails server --host=0.0.0.0 --port=$PORT
+web: rails server -p $PORT
